@@ -5,7 +5,7 @@
  </p>
 <p align="center">
   <a>
-    <img alt="imtribute12 github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtribute12&theme=gotham" />
+    more information: <a href = "https://sedanstaskan.glitch.me"> </a>
   </a>
 </p>
   
