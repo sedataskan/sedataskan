@@ -5,7 +5,7 @@
  </p>
 <p align="center">
   <a>
-    more information: <a href = "https://sedanstaskan.glitch.me"> </a>
+    more information: <link href = "https://sedanstaskan.glitch.me"> </link>
   </a>
 </p>
   
