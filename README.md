@@ -18,7 +18,5 @@
 
 
 <p align="center">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=imtribute12&theme=radical" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtribute12&theme=radical&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="languages" />
 </p>
