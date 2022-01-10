@@ -21,5 +21,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtribute12&theme=radical&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtribute12&theme=aura&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="languages" />
+
 </p>
