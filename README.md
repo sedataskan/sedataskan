@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=imtribute12&color=orange)
-<h1 align="center"> Hi 👋, I'm Seda. <br> <a href="https://sedanstaskan.glitch.me/">Learn more.</a></h1>
+<h1 align="center"> Hi 👋, I'm Seda.</a></h1>
 
 
 
 
-<p align="center">I'm currently learning Java, Python and computer science basis. </p>
+<p align="center">I'm currently learning Python and computer science basis. </p>
 
 <h3 align="center"> Follow Me On: </h3>
 
