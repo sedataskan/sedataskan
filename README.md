@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=imtribute12&color=orange)
 
-![image](https://user-images.githubusercontent.com/53279638/173573611-b6acad4f-ceb7-4d5a-9571-8437c54c3ce4.png)
+<div align="center">
+  <img src="https://media.giphy.com/media/rOEvmLAxxcE1i/giphy.gif" />
+ </div>
 
 <h1 align="center"> Hi 👋, I'm Seda.</a></h1>
 
