@@ -4,7 +4,7 @@
 
 
 
-<p align="center">I'm currently learning Python and computer science basis. </p>
+<p align="center">I'm currently learning Python, OpenCV and computer science basis. </p>
 
 <h3 align="center"> Follow Me On: </h3>
 
