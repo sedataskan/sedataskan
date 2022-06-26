@@ -7,8 +7,8 @@
   </a>
 </h1>
 
-<p align="center">I'm currently learning ML and computer science basis. </p>
-
+<h3 align="center">I'm currently learning ML and computer science basis. </h3>
+<br>
 <div align="center">
 
   <p align="center">
