@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<h3 align="center">I'm currently learning ML and computer science basis. </h3>
+<h3 align="center">I'm currently learning ML, React and computer science basis. </h3>
 <br>
 <div align="center">
 
