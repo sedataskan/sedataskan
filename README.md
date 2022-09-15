@@ -14,7 +14,7 @@
 <div align="center">
 
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtribute12&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)%5D(https://git.io/streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtribute12&theme=hacker" />
    
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtribute12&theme=chartreuse-dark&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="languages" />
