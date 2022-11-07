@@ -15,7 +15,7 @@
 <h3 align="center">I'm currently learning ML, React and computer science basis. </h3>
 <br>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imtribute12&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imtribute12&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact&&hide=css,c%23)
 
 </div>
 
