@@ -11,6 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seda-n-taskan) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nubika) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nubisqueendom) 
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sedanurgfb6671&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=sedanurgfb6671&redirect=true)
  
 </h1>
 
@@ -29,8 +31,6 @@
 <!---![](https://github-profile-trophy.vercel.app/?username=imtribute12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=0)--->
 
 <div align="center">
-
-
 
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
