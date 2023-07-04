@@ -24,7 +24,7 @@
 
 
 <div align="center"> 
-<h4>i'm currently learning ML, Flutter and computer science basis. </h4>
+<h4>i'm currently learning Node.js, Vue.js and computer science basis. </h4>
 	
 	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imtribute12&theme=neon&hide_border=true&border_radius=4.2&date_format=j%20M%5B%20Y%5D&ring=000000&background=45%2C00BF6E%2CB192EB&fire=EBEBEB&sideNums=EBEBEB&sideLabels=000000&stroke=000000&currStreakLabel=EBEBEB&currStreakNum=000000)](https://git.io/streak-stats)
