@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
           github_user_name: imtribute12
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: Platane/snk@v2.2.1
+      - uses: Platane/snk@v3.0.0
 
         with:
           target_branch: output
