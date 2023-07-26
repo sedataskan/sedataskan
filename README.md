@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seda-n-taskan) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nubika) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nubisqueendom)    
-	             
+
 </p>
 </div>
     
@@ -27,7 +27,7 @@
 <h4>i'm currently learning Node.js, Vue.js and computer science basis. </h4>
 	
 	
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imtribute12&theme=neon&hide_border=true&border_radius=4.2&date_format=j%20M%5B%20Y%5D&ring=000000&background=45%2C00BF6E%2CB192EB&fire=EBEBEB&sideNums=EBEBEB&sideLabels=000000&stroke=000000&currStreakLabel=EBEBEB&currStreakNum=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imtribute12&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C30973374%2C5E45A780&fire=00EBC5&ring=B2EB43A2&currStreakLabel=EBEBEB&excludeDaysLabel=EBEBEB&currStreakNum=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&sideNums=EBEBEB&hide_total_contributions=true)](https://git.io/streak-stats)
  
 </div>
 
