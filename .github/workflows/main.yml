@@ -17,10 +17,16 @@ jobs:
           github_user_name: imtribute12
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: Platane/snk@v3.0.0
-
+      - uses: Platane/snk@v3
         with:
-          target_branch: output
-          build_dir: dist
+          # github user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
+          github_user_name: ${{ github.repository_owner }}
+
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
