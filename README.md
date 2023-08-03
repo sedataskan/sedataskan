@@ -1,6 +1,13 @@
-<div align="right">
-  <img src="https://visitcount.itsvg.in/api?id=imtribute12&icon=8&color=8" />
+<div>
+	<div align="left">
+		<a href="https://wakatime.com/@91888085-4bf3-4711-bea3-9955e0e2fa49"><img src="https://wakatime.com/badge/user/91888085-4bf3-4711-bea3-9955e0e2fa49.svg" alt="Total time coded since Aug 3 2023" /></a>
+	 	</div>
+	<div align="right">
+	  <img src="https://visitcount.itsvg.in/api?id=imtribute12&icon=8&color=8" />
+	</div>
 </div>
+
+
  
 <div align="center">     
 <br>
