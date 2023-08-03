@@ -1,14 +1,8 @@
-<div>
-	<div align="left">
-		<a href="https://wakatime.com/@91888085-4bf3-4711-bea3-9955e0e2fa49"><img src="https://wakatime.com/badge/user/91888085-4bf3-4711-bea3-9955e0e2fa49.svg" alt="Total time coded since Aug 3 2023" /></a>
-	 	</div>
-	<div align="right">
-	  <img src="https://visitcount.itsvg.in/api?id=imtribute12&icon=8&color=8" />
-	</div>
+<div align="right">
+	<img src="https://visitcount.itsvg.in/api?id=imtribute12&label=Profile%20Views&color=9&icon=8&pretty=true" />
 </div>
 
 
- 
 <div align="center">     
 <br>
 <p align="center" width="50%"> 
@@ -16,10 +10,13 @@
 <a href="https://github.com/imtribute12">
 <img src="https://readme-typing-svg.herokuapp.com?size=36&color=ffffff&center=true&multiline=true&width=500&height=100&lines=Hi!+%F0%9F%91%8B;I'm+Seda+%F0%9F%98%8A">
 </a>
-	      
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seda-n-taskan) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nubika) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nubisqueendom)    
+<div align="center">
+	<img src="https://wakatime.com/badge/user/91888085-4bf3-4711-bea3-9955e0e2fa49.svg?style=for-the-badge" />
+</div>
 
 </p>
 </div>
