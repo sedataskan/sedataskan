@@ -15,7 +15,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nubika) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nubisqueendom)    
 <div align="center">
-	<img src="https://wakatime.com/badge/user/91888085-4bf3-4711-bea3-9955e0e2fa49.svg?style=for-the-badge" />
+	<a href="https://wakatime.com/@sedataskan">
+		<img src="https://wakatime.com/badge/user/91888085-4bf3-4711-bea3-9955e0e2fa49.svg?style=for-the-badge" />
+	</a>
 </div>
 
 </p>
