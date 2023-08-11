@@ -31,7 +31,9 @@
 <h4>i'm currently learning Node.js, Vue.js and computer science basis. </h4> -->
 	
 <div align="center"> 	
-	
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedataskan&layout=compact&theme=aura&hide=jupyter%20notebook,c%23)
+ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sedataskan&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C30973374%2C5E45A780&fire=00EBC5&ring=B2EB43A2&currStreakLabel=EBEBEB&excludeDaysLabel=EBEBEB&currStreakNum=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&sideNums=EBEBEB&hide_total_contributions=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
  
 </div>
