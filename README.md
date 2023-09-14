@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seda-n-taskan) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nubika) 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nubisqueendom?label=Follow)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nubisqueendom?label=Follow)](https://x.com/nubisqueendom)
 
  
 <a href="https://wakatime.com/@sedataskan" target="_blank">
