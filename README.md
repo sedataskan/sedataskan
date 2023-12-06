@@ -14,9 +14,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nubika) 
 
  
-<a href="https://wakatime.com/@sedataskan" target="_blank">
+<!--<a href="https://wakatime.com/@sedataskan" target="_blank">
 	<img src="https://wakatime.com/badge/user/91888085-4bf3-4711-bea3-9955e0e2fa49.svg?style=for-the-badge" />
-</a>
+</a>-->
 
 </p>
 </div>
@@ -26,7 +26,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sedanurgfb6671&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c33232&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 	
-<div align="center"> 	
+<!--<div align="center"> 	
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sedataskan&langs_count=4&theme=dark" />
 </a>
@@ -34,7 +34,7 @@
   <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sedataskan&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&hide_current_streak=true" />
 </a>
 	
-</div>
+</div>-->
 
 <div align="center"> 
   
