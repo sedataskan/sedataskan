@@ -13,6 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seda-n-taskan) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nubika) 
 
+<img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif" width="200" />
+
  
 <!--<a href="https://wakatime.com/@sedataskan" target="_blank">
 	<img src="https://wakatime.com/badge/user/91888085-4bf3-4711-bea3-9955e0e2fa49.svg?style=for-the-badge" />
