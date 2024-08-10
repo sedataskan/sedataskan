@@ -25,7 +25,7 @@
     
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sedanurgfb6671&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c33232&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sedanurgfb6671&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c33232&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 	
 <!--<div align="center"> 	
