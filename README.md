@@ -1,6 +1,6 @@
-<div align="right">
+<!-- <div align="right">
 	<img src="https://visitcount.itsvg.in/api?id=imtribute12&label=Profile%20Views&color=12&icon=3&pretty=true" />
-</div>
+</div> -->
 
 <div align="center">     
 	<br>
@@ -21,11 +21,6 @@
 </a>-->
 
 </p>
-</div>
-    
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sedanurgfb6671&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c33232&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 	
 <!--<div align="center"> 	
